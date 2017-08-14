@@ -46,3 +46,29 @@ background-size: cover;
   width: 100%;
   text-align: center;
 }
+
+h2{
+text-align: left;
+color: white;
+}
+
+#first{
+  text-align: left;
+color: white;
+}
+
+.scholarship {
+  background-color: white;
+  height: 140px;
+  padding: 20px;
+  color: black;
+  margin: 10px;
+}
+
+
+
+.about p {
+  max-width: 800px;
+  margin: auto;
+  color: white;
+}
